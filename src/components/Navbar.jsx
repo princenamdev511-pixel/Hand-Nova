@@ -34,7 +34,7 @@ export default function Navbar({
               Hand <span className="text-violet-700">Nova</span>
             </span>
             <p className="hidden text-[11px] font-medium tracking-wide text-stone-500 sm:block">
-              Gesture & Air Canvas Studio
+              Gesture & Air capture Nova 
             </p>
           </div>
         </button>
