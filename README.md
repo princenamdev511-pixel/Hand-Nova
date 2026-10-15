@@ -1,4 +1,4 @@
-# Hand Capture Studio
+# Hand Nova
 
 ## Frontend
 
