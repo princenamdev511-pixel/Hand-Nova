@@ -142,12 +142,12 @@ export default function App() {
       <footer className="border-t border-slate-200 bg-white/90 py-6 text-center text-xs text-slate-500">
         <div className="max-w-7xl mx-auto px-4 flex flex-col sm:flex-row items-center justify-between gap-3">
           <div className="flex items-center space-x-2">
-            <span className="font-bold text-slate-500">Hand Capture Studio</span>
+            <span className="font-bold text-slate-500">Hand Nova</span>
             <span>•</span>
-            <span>Webcam &amp; MediaPipe Tasks Vision</span>
+            <span>Webcam &amp; © 2026 Hand Nova. All rights reserved.</span>
           </div>
           <div className="flex items-center space-x-4">
-            <span>Express + MongoDB Atlas + React</span>
+            <span>🔒 Secure Cloud Auto-Save</span>
           </div>
         </div>
       </footer>
